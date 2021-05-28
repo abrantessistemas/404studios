@@ -1,0 +1,17 @@
+.navbar{
+@media screen and(min-width: 480px) {
+   background-color: red;
+}
+}
+.navbar{
+    background-color: black;
+    opacity: 75%;
+}
+
+.collapse{position: fixed;right:0}
+
+.logo{
+    font-size: x-large;
+    position: fixed;
+    left: 130px;
+}

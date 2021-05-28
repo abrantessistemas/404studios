@@ -3,6 +3,7 @@ import noUiSlider from "nouislider";
 
 @Component({
   selector: "app-index",
+  styleUrls:["index.component.scss"],
   templateUrl: "index.component.html"
 })
 export class IndexComponent implements OnInit, OnDestroy {
